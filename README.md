@@ -1,5 +1,4 @@
 # 梼杌
-![Alt text](https://github.com/pandasec888/taowu-cobalt-strike/blob/master/img/timg.jpg)
 
 仅供交流与学习使用，请勿用于非法用途！
 
